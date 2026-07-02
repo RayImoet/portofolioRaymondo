@@ -62,7 +62,7 @@ export default function Home() {
 
                 <div className="pt-4 flex flex-wrap gap-4">
                   <a
-                    href="https://drive.google.com/file/d/1Me6e9p0UClq7RbAoJMq76zdMJM7mnggs/view?usp=sharing"
+                    href="https://drive.google.com/file/d/1sIbSrYgygp48Zkg8oGs4qNVCJlmREUTC/view?usp=sharing"
                     className="group relative px-8 py-4 bg-foreground text-background font-medium hover:bg-accent hover:text-foreground transition-all duration-300 overflow-hidden"
                   >
                     <span className="relative z-10">Download CV</span>
