@@ -128,7 +128,7 @@ export default function About() {
                 {
                   year: "Apr 2026 - Present",
                   title: "IT Support (Pre-opening & Opersional Support) ",
-                  company: "RS. Arafiq - Semarang, Central Java",
+                  company: "RS.Citra Arafiq - Semarang, Central Java",
                   points: [
                     "Installed and configured operating systems, troubleshot computer hardware, printers, and other IT support devices to ensure optimal performance.",
                     "Assembled computer hardware, installed operating systems, configured devices, and performed functional testing before deployment",
