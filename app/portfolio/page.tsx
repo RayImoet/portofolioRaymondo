@@ -16,7 +16,7 @@ const ProjectModal = dynamic(
 const projects = [
 
   {
-    id: 1,
+    id: 2,
     title: "Inventory Management Website",
     description:
       "Implemented features for product, stock, and transaction management. ",
