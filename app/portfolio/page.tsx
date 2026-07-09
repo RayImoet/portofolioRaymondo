@@ -16,7 +16,7 @@ const ProjectModal = dynamic(
 const projects = [
 
   {
-    id: 2,
+    id: 1,
     title: "Inventory Management Website",
     description:
       "Implemented features for product, stock, and transaction management. ",
@@ -35,13 +35,13 @@ const ProjectModal = dynamic(
 const projects = [
 
   {
-    id: 1,
-    title: "Inventory Management Website",
+    id: 2,
+    title: "Potofolio Website",
     description:
       "Implemented features for product, stock, and transaction management. ",
-    technologies: ["Laravel", "PHP", "Mysql"],
-    year: "2023",
-    image: "/portofolio/Picture1.jpg",
+    technologies: ["CSS", "PHP", "HTML"],
+    year: "2026",
+    image: "/portofolio/porto.png",
   },
 
 
