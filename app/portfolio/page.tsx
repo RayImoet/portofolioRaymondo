@@ -27,6 +27,25 @@ const projects = [
 
 
 ];
+const ProjectModal = dynamic(
+  () => import("@/components/project-modal").then((mod) => mod.ProjectModal),
+  { ssr: false },
+);
+
+const projects = [
+
+  {
+    id: 1,
+    title: "Inventory Management Website",
+    description:
+      "Implemented features for product, stock, and transaction management. ",
+    technologies: ["Laravel", "PHP", "Mysql"],
+    year: "2023",
+    image: "/portofolio/Picture1.jpg",
+  },
+
+
+];
 
 export default function Portfolio() {
   const [selectedProject, setSelectedProject] = useState<number | null>(null);
