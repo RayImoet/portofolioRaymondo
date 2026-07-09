@@ -88,7 +88,7 @@ export default function Home() {
                   </div>
                   <div>
                     <p className="text-4xl font-light text-accent font-serif">
-                      1
+                      2
                     </p>
                     <p className="text-xs tracking-widest uppercase text-muted-foreground mt-1">
                       Projects
